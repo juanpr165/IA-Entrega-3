@@ -15,11 +15,6 @@ La generación usa Groq y el vectorstore/embeddings quedan locales. Si la inform
 - Respuesta validada con `PydanticOutputParser`: `respuesta` y `referencias`.
 - Datos de muestra coherentes: manual operativo del sistema de préstamo de una biblioteca.
 
-## Requisitos
-
-- Windows 11 y Python 3.10 o superior (Python 3.11 recomendado).
-- Una clave de Groq. El proyecto no incluye ni guarda secretos.
-
 
 ## Uso
 

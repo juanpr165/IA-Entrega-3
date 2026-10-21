@@ -1,0 +1,7 @@
+Reservas y listas de espera de la Biblioteca Horizonte
+
+Cuando todos los ejemplares prestables de un título están ocupados, una persona con credencial activa puede generar una reserva desde el catálogo. La reserva conserva el orden de solicitud y se asocia a un único título.
+
+Al devolverse un ejemplar, la biblioteca envía un aviso al correo institucional de la primera persona de la lista. Esa persona tiene tres días hábiles para retirarlo. Si no lo retira en ese plazo, la reserva vence y el ejemplar se ofrece a la siguiente persona.
+
+No es posible reservar materiales de consulta en sala. Una persona puede mantener como máximo tres reservas activas.

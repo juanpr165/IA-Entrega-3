@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Secrets and local state
+.env
+vectorstore/
+*.sqlite3
+
+# Editors and OS
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini

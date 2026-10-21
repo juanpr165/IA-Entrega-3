@@ -20,19 +20,6 @@ La generación usa Groq y el vectorstore/embeddings quedan locales. Si la inform
 - Windows 11 y Python 3.10 o superior (Python 3.11 recomendado).
 - Una clave de Groq. El proyecto no incluye ni guarda secretos.
 
-## Preparación en Windows 11
-
-1. Abra la carpeta **Entrega 3** en VS Code.
-2. Cree el entorno virtual desde la terminal integrada:
-
-   ```powershell
-   py -m venv .venv
-   .\.venv\Scripts\Activate.ps1
-   pip install -r requirements.txt
-   ```
-
-   Si PowerShell bloquea la activación, ejecute una vez `Set-ExecutionPolicy -Scope Process Bypass` y vuelva a activar el entorno.
-3. Copie `.env.example` como `.env` desde el Explorador de archivos o VS Code; complete solamente `GROQ_API_KEY`.
 
 ## Uso
 
